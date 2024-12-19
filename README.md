@@ -4,7 +4,7 @@ This project demonstrates a basic integration of Stripe Payments using Node.js a
 
 ## Features
 
-- Handles payments in INR using Stripe Checkout.
+- Handles payments in USD using Stripe Checkout.
 - Predefined courses with their prices.
 - Local development setup with a simple Express server.
 
