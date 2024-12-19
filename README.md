@@ -1,6 +1,6 @@
 # Stripe Payment Practice
 
-This project demonstrates a basic integration of Stripe Payments using Node.js and Express. It allows users to purchase courses with predefined prices in INR (Indian Rupees) and supports Stripe's checkout flow.
+This project demonstrates a basic integration of Stripe Payments using Node.js and Express. It allows users to purchase courses with predefined prices in USD (Indian Rupees not permitted) and supports Stripe's checkout flow.
 
 ## Features
 
