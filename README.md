@@ -15,7 +15,7 @@ This project demonstrates a basic integration of Stripe Payments using Node.js a
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/msk-chaithanya-raj/stripe-payment-practice.git
    cd stripe-payment-practice
    ```
 
@@ -50,7 +50,7 @@ This project demonstrates a basic integration of Stripe Payments using Node.js a
 
 ## Stripe Payment Testing
 
-- **Valid Test Card Details**: Any valid card details except the card number `4242424242424242`. This card number will always simulate a failed transaction.
+- **Valid Test Card Details**: Any valid card details except the card number `4242424242424242`. This card number will always simulate a successful transaction.
 - Other card details like expiration date, CVV, and postal code can be random values, but they must conform to Stripe's testing guidelines.
 
 ---
